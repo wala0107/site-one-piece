@@ -4539,7 +4539,7 @@ html.lt-ie-10 * + .row,
 	-webkit-justify-content: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	padding: 35px 25px;
+
 	width: 100%;
 }
 
